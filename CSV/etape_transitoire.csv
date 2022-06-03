@@ -1,0 +1,12 @@
+id_etape,name_port,id_voayge,cargaison,passagers
+1,Malaga,66,10,11
+2,Genes,67,11,12
+3,Antwerp,24,12,13
+5,Beihai,67,13,14
+6,Casablanca,69,14,15
+7,Bejaia,34,15,16
+8,Jijel,36,16,17
+9,Argentina,60,17,18
+11,Sidi Frej,12,18,19
+13,Marseille,29,19,20
+14,Weihai,66,20,21

@@ -1,0 +1,18 @@
+
+/****Les contraintes****/
+
+port(categorie)>= navire(categorie) 
+au depart navire : max (vol marchandise) et/ou max( nb passagers)
+cargaison(volume)<= navire(marchandise)	
+distance voyage court <1000
+distance voyage moyen <2000 && >1000
+distance voyage long >2000
+volmax(cargaison) <= volmax(navire)
+Somme quantité produit(cargaison) <= volume(cargaison)
+Voyage de nation1 -> nation 2 Impossibe
+Une cargaison appartient à un navire
+Si voyage court => cargaison secs + périssable et sec seulement pour moyen et long
+une distance inf ́erieure `a moins de 1000km ne peut pas etre intercontinental
+ Il existe des voyages intercontinentaux, mais il ne peuvent s’effectuer qu’avec des navires de cat ́egorie 5
+La nationalit ́e d’un navire peut varier en fonction du temps
+Un navire mais ne peut commercer ou d ́ebarquer dans les ports dont la cat ́egorie est inf ́erieure à la sienne lors d'un voyage par étapes

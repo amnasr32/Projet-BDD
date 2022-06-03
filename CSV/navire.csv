@@ -1,0 +1,241 @@
+id_navire,name,type,categorie,nationalite,vol_marchandise_max,nb_passagers_max,mouille
+1,The Pirates Plunderers,Galion,3,Guinee,5000,5000,Bordeaux
+2,The Filthy Knave,Gabare,1,Guyana,7000,4000,Nantes
+3,The Poisoned Princess,Flute,5,Haiti,10000,6121,Marseille
+4,The Barbaric Eel,Cargos polyvalents,2,Honduras,6514,4000,Sidi Frej
+5,The Anger of the Insanity,Chimiquiers,3,Hong Kong,7300,5000,Bejaia
+6,The Angry Fall,Gaziers,4,Hongrie,3500,2000,Beni Ksila
+7,The Poison Murderers,Navires citernes,4,Islande,4600,7000,Ghazaouet
+8,The Sanguine Storm,Navires frigorifiques,4,Inde,8500,5132,Tigzirt
+9,The Howl of the Treasure,Vraquiers,4,Indonesie,4700,3000,Jijel
+10,The Howl of the Abandoned,Chimiquiers,5,Iran,7300,5000,Ziama Manzouriah
+11,The Foul Serpent of Abandoned,Gaziers,5,Iraq,3500,2000,El Marsa
+12,The Burning Rovers,Navires citernes,3,Irlande,4600,7000,Bouharoun
+13,The Elusive Rovers,Gabare,3,Italie,7000,3000,Nador
+14,The Cursed Tortuga,Cargos polyvalents,3,Cote d’Ivoire,6514,4000,Agadir
+15,The Drunken Trinity,Chimiquiers,3,Jamaique,7300,5000,Casablanca
+16,The Nights Tide,Gaziers,2,Japon,3500,2000,Sidi Hsain
+17,The Killers Curse,Navires citernes,4,Kazakhstan,4600,7000,Safi
+18,The Dirty Scorn,Galion,2,Jordanie,5000,5000,Tanger
+19,The Barbaric Plunder,Gabare,1,Kenya,7000,4000,Jorf Lasfar
+20,The Night Buccaneers,Flute,4,Coree,10000,6121,Goulette
+21,The Crimson Abandoned,Cargos polyvalents,2,Koweit,6514,4000,Sidi Bou Said
+22,The Deceit of Secret,Chimiquiers,5,Kirghizistan,7300,5000,Gabes
+23,The Bearded Murderers,Flute,5,Liban,10000,6121,Kelibia
+24,The Nights Damned,Cargos polyvalents,1,Lesotho,6514,4000,El Kantaoui
+25,The Grand Galley,Chimiquiers,2,Lettonie,7300,5000,Tunis
+26,The Foul Serpent of Terror,Gaziers,4,Liberia,3500,2000,Manastir
+27,The Drunken Hangman,Navires citernes,3,Libye,4600,7000,Saint Nazaire
+28,The Disgrace of the Fall,Navires frigorifiques,2,Liechtenstein,8500,5132,Crouesty
+29,The Adventure Saber,Galion,4,Lituanie,5000,5000,Dieppe
+30,The Deceit of Plunder,Gabare,4,Luxembourg,7000,4000,Vendres
+31,The Dragons Corsair,Flute,5,Macao,10000,6121,Dunkerque
+32,The Loyal Ranger,Cargos polyvalents,1,Madagascar,6514,4000,Van Gogh
+33,The Adventure Privateer,Chimiquiers,2,Malawi,7300,5000,Saint -Malo
+34,The Fearful Grail of Night,Navires citernes,2,Malaisie,4600,7000,Portbou
+35,The Flying Wolf,Flute,4,Maldives,10000,6121,Pasaia
+36,The Last Jewel,Cargos polyvalents,2,Mali,6514,4000,Ceuta
+37,The Vile Horror,Chimiquiers,2,Malte,7300,5000,Barcelone
+38,The Filthy Scorn,Gaziers,2,Martinique,3500,2000,Banyuls
+39,The Happy Cutlass,Gabare,1,Mauritanie,7000,4000,Malaga
+40,The Disgraced Servants,Flute,3,Maurice,10000,6121,Puerto Sherry
+41,The Last Secret,Cargos polyvalents,2,Mexique,6514,4000,Huelva
+42,The Dragons Fall,Chimiquiers,3,Mongolie,7300,5000,Dalian
+43,The Grand Fortune,Gaziers,2,Republique de Moldova,3500,2000,Yingkou
+44,The Rising Damned,Cargos polyvalents,4,Montserrat,6514,4000,Jinzhou
+45,The Cacophonous Gold,Chimiquiers,5,Maroc,7300,5000,Qinhuangdao
+46,The Hateful Servant,Gaziers,4,Mozambique,3500,2000,Tianjin
+47,The Poisonous Rovers,Navires citernes,5,Oman,4600,7000,Yantai
+48,The Seas Delivery,Cargos polyvalents,5,Suede,6514,4000,Weihai
+49,The Hateful Insanity,Chimiquiers,5,Suisse,7300,5000,Haikou
+50,The Rude Pearl,Gaziers,5,Syrie,3500,2000,Sanya
+51,The Black Tide,Chimiquiers,2,France,7300,5000,Shenzhen
+52,The Howling Lightning,Cargos polyvalents,3,Egypte,6514,4000,Zhanjiang
+53,The Seas Fall,Chimiquiers,3,Royaume-Uni,7300,5000,Beihai
+54,The Mermaid's Dagger,Gaziers,1,Tanzanie,3500,2000,Basuo
+55,The Oceans Dragon,Gaziers,3,Etats-Unis,3500,2000,Genes
+56,The Buccaneers Corsair,Navires citernes,1,Nouvelle-Zelande,4600,7000,La Spezia
+57,The Bearded Sea Rovers,Navires frigorifiques,4,Nicaragua,8500,5132,Livourne
+58,The Most Disgrace,Vraquiers,1,Niger,4700,3000,Naples
+59,The Silent Delight,Gabare,5,Nigeria,7000,4000,Salerne
+60,The Good Scream,Flute,1,Niue,10000,6121,Civitavecchia
+61,The Sudden Rift,Cargos polyvalents,1,Norvege,6514,4000,Gioia Tauro
+62,The Cry Plunderers,Navires frigorifiques,1,Palaos,8500,5132,Jubail
+63,The Broken Deceit,Galion,4,Pakistan,5000,5000,Ras Tanura
+64,The Last Fall,Gabare,4,Panama,7000,4000,Dammam
+65,The Mayflower Tortuga,Flute,5,Paraguay,10000,6121,Jeddah
+66,The Victory Raider,Cargos polyvalents,1,Perou,6514,4000,Yanbu
+67,The Last Anger,Chimiquiers,4,Philippines,7300,5000,Saudi Arabia
+68,The Vicious Privateer,Flute,3,Pitcairn,10000,6121,Durres
+69,The Hellish Pirate,Galion,5,Pologne,5000,5000,Calcutta
+70,The Hellish Strumpet,Gabare,3,Portugal,7000,4000,Adelaide
+71,The Sanguine Wolf,Flute,5,Guinea-Bissau,10000,6121,Broome
+72,The James,Cargos polyvalents,4,Timor-Leste,6514,4000,Fremantle
+73,The Nights Coward,Chimiquiers,4,Porto Rico,7300,5000,Port Giles
+74,The Howling Rambler,Navires citernes,4,Qatar,4600,7000,Penneshaw
+75,The Curse of the Hind,Galion,5,Reunion,5000,5000,Sydney
+76,The Nights Captain,Gabare,2,Roumanie,7000,4000,Yamba
+77,The Mangy Strumpet,Flute,4,Russie,10000,6121,Townsville
+78,The Sanguine King,Cargos polyvalents,5,Tunisie,6514,4000,Mina Salman 
+79,The Dragons Princess,Chimiquiers,4,Turquie,7300,5000,Chalna
+80,The Horrid Storm,Flute,2,Turkmenistan,10000,6121,Chittagong
+81,The Scurvy Revenge,Gabare,1,Afghanistan,7000,4000,Mongla
+82,The Fearful Eel,Flute,1,Albanie,10000,6121,Cotonou
+83,The Fall of Damnation,Cargos polyvalents,2,Antarctique,6514,4000,Itaja
+84,The Corrupted Dagger,Chimiquiers,5,Algerie,7300,5000,Itaqui
+85,The Dragons Seven Seas,Gaziers,2,Samoa Americaines,3500,2000,Obidos
+86,The Victory Trinity,Navires citernes,1,Andorre,4600,7000,Aratu
+87,The Mayflower Knave,Navires frigorifiques,1,Angola,8500,5132,Belem
+88,The Damnation of the Killer,Vraquiers,3,Antigua-et-Barbuda,4700,3000,Ponta Ubu
+89,The Most Galley,Chimiquiers,1,Azerbaijan,7300,5000,Recife
+90,The Revenge Seas,Gaziers,2,Argentine,3500,2000,Rio de Janeiro
+91,The Captains Sea,Navires citernes,4,Australie,4600,7000,Santos
+92,The Disgraceful Jewel,Cargos polyvalents,4,Autriche,6514,4000,Sao Francisco
+93,The Last Slave,Cargos polyvalents,5,Bahamas,6514,4000,Paranagua
+94,The Cruel James,Chimiquiers,4,Bahrain,7300,5000,Douala
+95,The Shadows of the Curse,Gaziers,4,Bangladesh,3500,2000,Alberni
+96,The Barbaric Sea Rovers,Navires citernes,2,Armenie,4600,7000,Fraser
+97,The Angry Scorn,Galion,5,Barbade,5000,5000,Halifax
+98,The Damnation,Gabare,4,Belgique,7000,4000,Hamilton
+99,The Rude Anger,Flute,3,Bermudes,10000,6121,Montreal
+100,The Little Seas,Cargos polyvalents,3,Bhoutan,6514,4000,Mulgrave
+101,The Mayflower King,Chimiquiers,2,Bolivie,7300,5000,Quebex
+102,The Dragons Wolf,Flute,3,Bosnia and Herzegovina,10000,6121,Oakland
+103,The Dirty Demon,Cargos polyvalents,5,Botswana,6514,4000,Nenaimo
+104,The Murderers Damnation,Chimiquiers,2,le Bouvet,7300,5000,Georgetown
+105,The Happy Dragon,Gaziers,1,Bresil,3500,2000,Abijan
+106,The Pride of the Ghost,Navires citernes,2,Belize,4600,7000,Tampico
+107,The Greed of the Abandoned,Navires frigorifiques,1,les Salomon,8500,5132,Tuxpan
+108,The Shadows of the Grail,Galion,4,les Vierges Britanniques,5000,5000,Mexico
+109,The Pirates Servant,Gabare,4,Brunei Darussalam,7000,4000,Puerto Vallarta
+110,The Victory North,Flute,4,Bulgarie,10000,6121,Manzanillo
+111,The Cry Tide,Cargos polyvalents,4,Myanmar,6514,4000,Altamira
+112,The Captains Servant,Chimiquiers,4,Burundi,7300,5000,Ensenada
+113,The Howling Ranger,Navires citernes,4,Belarus,4600,7000,Piraeus
+114,The Saber,Flute,3,Cambodge,10000,6121,Volos
+115,The Red Tainted,Cargos polyvalents,2,Cameroun,6514,4000,Thessaloniki
+116,The Cursed Rose,Chimiquiers,1,Canada,7300,5000,Kalmar
+117,The Blind Return,Gaziers,3,Cap-vert,3500,2000,Koping
+118,The Poison Eel,Gabare,2,iles Caimans,7000,4000,Lysekil
+119,The Mad Fear,Flute,1,Republique Centrafricaine,10000,6121,Malmo
+120,The Greed of the Seas,Cargos polyvalents,5,Sri Lanka,6514,4000,Gotland
+121,The Damnation of the Death,Chimiquiers,5,Chad,7300,5000,Falkenberg
+122,The Nights King,Gaziers,4,Chili,3500,2000,Arica
+123,The Caribbean,Cargos polyvalents,2,Chine,6514,4000,Iquique
+124,The Homicidal Murderers,Chimiquiers,3,Taiwan,7300,5000,San Antonio
+125,The Angry Plunder,Gaziers,1,ile Christmas,3500,2000,Valparaiso
+126,The Rancid King,Navires citernes,2,iles Cocos (Keeling),4600,7000,Barranquilla
+127,The Horrid Howl,Cargos polyvalents,2,Colombie,6514,4000,Cartagena
+128,The Pillaging Caribbean,Chimiquiers,5,Comores,7300,5000,Covenas
+129,The Golden Eel,Gaziers,1,Mayotte,3500,2000,Purto Prodeco
+130,The Poisonous Rambler,Navires citernes,4,Republique du Congo,4600,7000,Colombia
+131,The Pirates Plunderers,Cargos polyvalents,4,Republique Democratique du Congo,6514,4000,Santa Marta
+132,The Filthy Knave,Chimiquiers,5,iles Cook,7300,5000,Belawan
+133,The Poisoned Princess,Gaziers,2,Costa Rica,3500,2000,Benoa
+134,The Barbaric Eel,Gaziers,4,Croatie,3500,2000,Lewiston
+135,The Anger of the Insanity,Navires citernes,5,Cuba,4600,7000,Medan
+136,The Angry Fall,Navires frigorifiques,3,Chypre,8500,5132,Tanjung Emas
+137,The Poison Murderers,Vraquiers,3,Republique Tcheque,4700,3000,Tanjung Intan
+138,The Sanguine Storm,Gabare,2,Benin,7000,4000,Banjarmasin
+139,The Howl of the Treasure,Flute,4,Danemark,10000,6121,Dakar
+140,The Howl of the Abandoned,Cargos polyvalents,5,Republique Dominicaine,6514,4000,Umm Said
+141,The Foul Serpent of Abandoned,Navires frigorifiques,1,Equateur,8500,5132,Azow
+142,The Burning Rovers,Galion,5,El Salvador,5000,5000,Kaukaz
+143,The Elusive Rovers,Gabare,4,Guinee equatoriale,7000,4000,Odessa
+144,The Cursed Tortuga,Flute,3,Ethiopie,10000,6121,Vyborg
+145,The Drunken Trinity,Cargos polyvalents,5,Eritrea,6514,4000,Vystosk
+146,The Nights Tide,Chimiquiers,1,Estonie,7300,5000,Taganrog
+147,The Killers Curse,Flute,3,Fidji,10000,6121,Nakhodka
+148,The Dirty Scorn,Galion,4,Finlande,5000,5000,Novorossiysk
+149,The Barbaric Plunder,Gabare,4,France,7000,4000,Garston
+150,The Night Buccaneers,Flute,5,Guyane Francaise,10000,6121,Harwich
+151,The Crimson Abandoned,Cargos polyvalents,4,Polynisie Francaise,6514,4000,Holyhead
+152,The Deceit of Secret,Chimiquiers,4,Terres Australes Francaises,7300,5000,London
+153,The Bearded Murderers,Navires citernes,1,Djibouti,4600,7000,Liverpool
+154,The Nights Damned,Galion,1,Gabon,5000,5000,Mancheter Ship Canal
+155,The Grand Galley,Gabare,1,Georgie,7000,4000,Milford Haven
+156,The Foul Serpent of Terror,Flute,4,Gambie,10000,6121,Blyth
+157,The Drunken Hangman,Gabare,1,Palestine,7000,4000,Bristol
+158,The Disgrace of the Fall,Flute,2,Allemagne,10000,6121,Dover
+159,The Adventure Saber,Cargos polyvalents,2,Ghana,6514,4000,Falmouth
+160,The Deceit of Plunder,Chimiquiers,2,Gibraltar,7300,5000,Tyne
+161,The Dragons Corsair,Gaziers,2,Kiribati,3500,2000,Britain
+162,The Loyal Ranger,Navires citernes,4,Grece,4600,7000,Yarmouth
+163,The Adventure Privateer,Navires frigorifiques,1,Groenland,8500,5132,Colombo
+164,The Fearful Grail of Night,Vraquiers,1,Guadeloupe,4700,3000,Sudan
+165,The Flying Wolf,Chimiquiers,4,Guam,7300,5000,Elbag
+166,The Last Jewel,Gaziers,5,Guatemala,3500,2000,Gdansk
+167,The Vile Horror,Navires citernes,1,Guinee,4600,7000,Swinoujscie
+168,The Filthy Scorn,Vraquiers,1,Guyana,4700,3000,Aqaba
+169,The Happy Cutlass,Cargos polyvalents,4,Haiti,6514,4000,Alexandria
+170,The Disgraced Servants,Chimiquiers,4,Honduras,7300,5000,Sues Canal
+171,The Last Secret,Gaziers,2,Hong Kong,3500,2000,Constantza
+172,The Dragons Fall,Navires citernes,3,Hongrie,4600,7000,Shuwaikh
+173,The Grand Fortune,Galion,5,Islande,5000,5000,Kuwait
+174,The Rising Damned,Gabare,3,Inde,7000,4000,Lavaca
+175,The Cacophonous Gold,Flute,3,Indonesie,10000,6121,Adak
+176,The Hateful Servant,Cargos polyvalents,3,Iran,6514,4000,Astoria
+177,The Poisonous Rovers,Chimiquiers,4,Iraq,7300,5000,Benton
+178,The Seas Delivery,Flute,1,Irlande,10000,6121,Beaumont
+179,The Hateful Insanity,Cargos polyvalents,4,Italie,6514,4000,Boston
+180,The Rude Pearl,Chimiquiers,1,Cote d’Ivoire,7300,5000,Detroit
+181,The Black Tide,Gaziers,3,Jamaique,3500,2000,Eastport
+182,The Howling Lightning,Navires citernes,5,Japon,4600,7000,Garfield
+183,The Seas Fall,Navires frigorifiques,2,Kazakhstan,8500,5132,Guam
+184,The Mermaid's Dagger,Galion,5,Jordanie,5000,5000,Gulfport
+185,The Oceans Dragon,Gabare,1,Kenya,7000,4000,Hampton Roads
+186,The Buccaneers Corsair,Flute,1,Coree,10000,6121,Ilyichevsk
+187,The Bearded Sea Rovers,Cargos polyvalents,2,Koweit,6514,4000,Nikolayev
+188,The Most Disgrace,Chimiquiers,5,Kirghizistan,7300,5000,Sevastopol
+189,The Silent Delight,Navires citernes,5,France,4600,7000,Yalta
+190,The Good Scream,Flute,4,France,10000,6121,Limar
+191,The Sudden Rift,Cargos polyvalents,1,Lettonie,6514,4000,Marmara
+192,The Cry Plunderers,Chimiquiers,1,Liberia,7300,5000,Kumport
+193,The Broken Deceit,Gaziers,1,Libye,3500,2000,Belde
+194,The Last Fall,Gabare,2,Liechtenstein,7000,4000,Bandirma
+195,The Mayflower Tortuga,Flute,2,Lituanie,10000,6121,Busan
+196,The Victory Raider,Cargos polyvalents,1,Luxembourg,6514,4000,Donghae
+197,The Last Anger,Chimiquiers,5,Macao,7300,5000,Gunsan
+198,The Vicious Privateer,Gaziers,5,Madagascar,3500,2000,Incheon
+199,The Hellish Pirate,Cargos polyvalents,1,Malawi,6514,4000,Jeju
+200,The Hellish Strumpet,Chimiquiers,4,Malaisie,7300,5000,Masan
+201,The Sanguine Wolf,Gaziers,3,Maldives,3500,2000,Mokpo
+202,The James,Navires citernes,1,Mali,4600,7000,Pohang
+203,The Nights Coward,Cargos polyvalents,5,Malte,6514,4000,Puerto Cabello
+204,The Howling Rambler,Chimiquiers,3,Martinique,7300,5000,Lake Maracaibo
+205,The Discourteous Swashbucklers,Gaziers,1,Mauritanie,3500,2000,Ben Nghe
+206,The Shadows of the Fall,Navires citernes,3,Maurice,4600,7000,Da Nang
+207,The Cry of the Captain,Cargos polyvalents,1,Mexique,6514,4000,HaiPhong
+208,The Drunken Buccaneers,Chimiquiers,3,Mongolie,7300,5000,Saigon
+209,The Adventure Serpent,Gaziers,4,Republique de Moldova,3500,2000,Cape Town
+210,The Uncultured Pearl,Gaziers,5,Montserrat,3500,2000,Durban
+211,The Damned Damnation,Navires citernes,4,Maroc,4600,7000,Mossel Bay
+212,The Plunder,Navires frigorifiques,3,Mozambique,8500,5132,Ngqura
+213,The Rancid Captain,Vraquiers,1,Oman,4700,3000,Saldanha
+214,The Dirty Galley,Gabare,5,Suede,7000,4000,Port Elizabeth
+215,The Golden Killers,Flute,5,Suisse,10000,6121,Bin Qasim
+216,The Dragons Dragon,Cargos polyvalents,5,Syrie,6514,4000,Karachi
+217,The Revenge,Navires frigorifiques,4,France,8500,5132,Bergen
+218,The Disgraceful Insanity,Galion,1,Egypte,5000,5000,Brevik
+219,The Silent Murderers,Gabare,3,Royaume-Uni,7000,4000,Grenland
+220,The Grand Captain,Flute,2,Tanzanie,10000,6121,Moss
+221,The Grand Pirate,Cargos polyvalents,2,Etats-Unis,6514,4000,Oslo
+222,The Dirty Scorn,Chimiquiers,5,Nouvelle-Zelande,7300,5000,Sola
+223,The Vile Sun,Flute,2,Nicaragua,10000,6121,Stavanger
+224,The Elusive Lightning,Galion,1,Niger,5000,5000,Luderitz
+225,The Grand Serpent,Gabare,3,Nigeria,7000,4000,Walvis Bay
+226,The Happy Trinity,Flute,4,Niue,10000,6121,Nambia
+227,The Bloody North,Cargos polyvalents,1,Norvege,6514,4000,Aveiro
+228,The Ghost,Chimiquiers,2,Palaos,7300,5000,Leixoes
+229,The Adventure Wolf,Navires citernes,1,Pakistan,4600,7000,Lisbon
+230,The Adventure Seas,Galion,5,Panama,5000,5000,Madeira
+231,The Poisonous Captain,Gabare,5,Paraguay,7000,4000,Setubal
+232,The Cacophonous King,Flute,3,Perou,10000,6121,Sines
+233,The Bloodthirsty Storm,Gabare,4,Philippines,7000,4000,Abu Dhabi
+234,The Broken Corruption,Flute,2,Pitcairn,10000,6121,Dubai
+235,The Howl,Cargos polyvalents,3,Pologne,6514,4000,Sharjah
+236,The Cry of the Pillager,Chimiquiers,5,Portugal,7300,5000,Khor Fakkan
+237,The Revenge Pearl,Gaziers,4,Guinea-Bissau,3500,2000,Zayed
+238,The Greedy Grail,Navires citernes,1,Timor-Leste,4600,7000,Bangkok
+239,The Cacophonous Tainted,Navires frigorifiques,1,Porto Rico,8500,5132,Laem Chabang
+240,The Damned Hind,Vraquiers,2,Qatar,4700,3000,Sattahip

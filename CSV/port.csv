@@ -1,0 +1,313 @@
+name,localisation,nationnalite,categorie
+Bordeaux,Europe,France,4
+Nantes,Europe,France,2
+Marseille,Europe,France,4
+Sidi Frej,Afrique ,Algerie,2
+Bejaia,Afrique ,Algerie,4
+Beni Ksila,Afrique ,Algerie,5
+Ghazaouet,Afrique ,Algerie,4
+Tigzirt,Afrique ,Algerie,1
+Jijel,Afrique ,Algerie,5
+Ziama Manzouriah,Afrique ,Algerie,5
+El Marsa,Afrique ,Algerie,3
+Bouharoun,Afrique ,Algerie,3
+Nador,Afrique ,Maroc,3
+Agadir,Afrique ,Maroc,3
+Casablanca,Afrique ,Maroc,1
+Sidi Hsain,Afrique ,Maroc,3
+Safi,Afrique ,Maroc,5
+Tanger,Afrique ,Maroc,1
+Jorf Lasfar,Afrique ,Maroc,5
+Goulette,Afrique ,Tunisie,1
+Sidi Bou Said,Afrique ,Tunisie,4
+Gabes,Afrique ,Tunisie,4
+Kelibia,Afrique ,Tunisie,2
+El Kantaoui,Afrique ,Tunisie,1
+Tunis,Afrique ,Tunisie,4
+Manastir,Afrique ,Tunisie,5
+Saint Nazaire,Europe,France,5
+Crouesty,Europe,France,3
+Dieppe,Europe,France,3
+Vendres,Europe,France,3
+Dunkerque,Europe,France,3
+Van Gogh,Europe,France,5
+Saint -Malo,Europe,France,3
+Portbou,Europe,Espagne,4
+Pasaia,Europe,Espagne,2
+Ceuta,Europe,Espagne,4
+Barcelone,Europe,Espagne,5
+Banyuls,Europe,Espagne,2
+Malaga,Europe,Espagne,3
+Puerto Sherry,Europe,Espagne,3
+Huelva,Europe,Espagne,2
+Dalian,Asie,Chine,1
+Yingkou,Asie,Chine,3
+Jinzhou,Asie,Chine,4
+Qinhuangdao,Asie,Chine,4
+Tianjin,Asie,Chine,1
+Yantai,Asie,Chine,1
+Weihai,Asie,Chine,1
+Haikou,Asie,Chine,2
+Sanya,Asie,Chine,4
+Shenzhen,Asie,Chine,3
+Zhanjiang,Asie,Chine,4
+Beihai,Asie,Chine,2
+Basuo,Asie,Chine,3
+Genes,Europe,Italie,3
+La Spezia,Europe,Italie,4
+Livourne,Europe,Italie,3
+Naples,Europe,Italie,2
+Salerne,Europe,Italie,3
+Civitavecchia,Europe,Italie,4
+Gioia Tauro,Europe,Italie,4
+Jubail,Asie,Arabie Saoudite,5
+Ras Tanura,Asie,Arabie Saoudite,5
+Dammam,Asie,Arabie Saoudite,4
+Jeddah,Asie,Arabie Saoudite,2
+Yanbu,Asie,Arabie Saoudite,2
+Saudi Arabia,Asie,Arabie Saoudite,5
+Durres,Europe,Albanie,3
+Calcutta,Asie,Inde,1
+Kandla,Asie,Inde,4
+Madras,Asie,Inde,4
+Mumbai,Asie,Inde,1
+Paradip,Asie,Inde,2
+Pipavav,Asie,Inde,5
+Tuticorin,Asie,Inde,4
+Krishnapatnam,Asie,Inde,4
+Harbor,Asie,Inde,2
+Jawaharlal Nehru,Asie,Inde,1
+Guantanamo,Amerique,Cuba,4
+Anzali,Asie,Iran,1
+Bushehr,Asie,Iran,5
+Chabahar,Asie,Iran,5
+Imam Khomeini,Asie,Iran,5
+Nowshahr,Asie,Iran,5
+Callao,Amerique,Perou,3
+Paita,Amerique,Perou,3
+Paramonga,Amerique,Perou,2
+Iquitos,Amerique,Perou,1
+Chimbote,Amerique,Perou,1
+Hakata,Asie,Japon,1
+Kawasaki,Asie,Japon,4
+Nagoya,Asie,Japon,1
+Osaka,Asie,Japon,3
+Sakata,Asie,Japon,3
+Sendai,Asie,Japon,2
+Tokyo,Asie,Japon,2
+Yokohama,Asie,Japon,4
+Yokosuka,Asie,Japon,2
+Ibaraki,Asie,Japon,1
+Onahama,Asie,Japon,5
+Kobe,Asie,Japon,5
+Niigata,Asie,Japon,5
+Mombasa,Afrique ,Kenya,4
+Lubito,Afrique ,Angola,2
+Luanda,Afrique ,Angola,3
+Gent,Europe,Belgique,4
+Oostende,Europe,Belgique,4
+Zeebrugge,Europe,Belgique,2
+Antwerp,Europe,Belgique,4
+Cebu,Asie,Philippines,3
+Iligan,Asie,Philippines,4
+Manila,Asie,Philippines,1
+Zamboanga,Asie,Philippines,3
+Lubeck,Europe,Allemagne,4
+Niedersachseb,Europe,Allemagne,5
+Rostock,Europe,Allemagne,3
+Emden,Europe,Allemagne,5
+Hamburg,Europe,Allemagne,2
+Brake,Europe,Allemagne,3
+Bremen,Europe,Allemagne,4
+Curacao,Amerique,Antilles,4
+La Plata,Amerique,Argentine,2
+Madryn,Amerique,Argentine,2
+Campana,Amerique,Argentine,3
+Quequen,Amerique,Argentine,3
+Rosario,Amerique,Argentine,4
+San Nicolas,Amerique,Argentine,3
+Ushuaia,Amerique,Argentine,1
+Buenos Aires,Amerique,Argentine,3
+Bahia Blanca,Amerique,Argentine,3
+Comodoro Rivadavia,Amerique,Argentine,2
+Argentina,Amerique,Argentine,4
+Zarate,Amerique,Argentine,2
+Dampier,Australie,Australie,3
+Darwin,Australie,Australie,1
+Devonport,Australie,Australie,1
+Alma,Australie,Australie,1
+Kembla,Australie,Australie,1
+Edan,Australie,Australie,2
+Echuca,Australie,Australie,1
+Esperance,Australie,Australie,5
+Adelaide,Australie,Australie,5
+Broome,Australie,Australie,1
+Fremantle,Australie,Australie,5
+Port Giles,Australie,Australie,4
+Penneshaw,Australie,Australie,4
+Sydney,Australie,Australie,5
+Yamba,Australie,Australie,5
+Townsville,Australie,Australie,3
+Mina Salman ,Asie ,Bahrain,3
+Chalna,Asie,Bangladesh,4
+Chittagong,Asie,Bangladesh,4
+Mongla,Asie,Bangladesh,1
+Cotonou,Afrique ,Benin,2
+Itaja,Amerique,Bresil,5
+Itaqui,Amerique,Bresil,1
+Obidos,Amerique,Bresil,2
+Aratu,Amerique,Bresil,4
+Belem,Amerique,Bresil,3
+Ponta Ubu,Amerique,Bresil,5
+Recife,Amerique,Bresil,1
+Rio de Janeiro,Amerique,Bresil,1
+Santos,Amerique,Bresil,3
+Sao Francisco,Amerique,Bresil,4
+Paranagua,Amerique,Bresil,2
+Douala,Afrique ,Cameroun,4
+Alberni,Amerique,Canada,4
+Fraser,Amerique,Canada,1
+Halifax,Amerique,Canada,5
+Hamilton,Amerique,Canada,3
+Montreal,Amerique,Canada,5
+Mulgrave,Amerique,Canada,1
+Quebex,Amerique,Canada,1
+Oakland,Amerique,Canada,2
+Nenaimo,Amerique,Canada,4
+Georgetown,Amerique,Canada,1
+Abijan,Afrique ,Cote d’Ivoire,3
+Tampico,Amerique,Mexique,2
+Tuxpan,Amerique,Mexique,5
+Mexico,Amerique,Mexique,2
+Puerto Vallarta,Amerique,Mexique,1
+Manzanillo,Amerique,Mexique,3
+Altamira,Amerique,Mexique,4
+Ensenada,Amerique,Mexique,2
+Piraeus,Europe,Grece,4
+Volos,Europe,Grece,1
+Thessaloniki,Europe,Grece,5
+Kalmar,Europe,Suede,5
+Koping,Europe,Suede,1
+Lysekil,Europe,Suede,2
+Malmo,Europe,Suede,5
+Gotland,Europe,Suede,5
+Falkenberg,Europe,Suede,2
+Arica,Amerique,Chili,4
+Iquique,Amerique,Chili,4
+San Antonio,Amerique,Chili,2
+Valparaiso,Amerique,Chili,4
+Barranquilla,Amerique,Colombie,2
+Cartagena,Amerique,Colombie,3
+Covenas,Amerique,Colombie,3
+Purto Prodeco,Amerique,Colombie,5
+Colombia,Amerique,Colombie,5
+Santa Marta,Amerique,Colombie,3
+Belawan,Asie,Indonesie,4
+Benoa,Asie,Indonesie,5
+Lewiston,Asie,Indonesie,3
+Medan,Asie,Indonesie,4
+Tanjung Emas,Asie,Indonesie,5
+Tanjung Intan,Asie,Indonesie,2
+Banjarmasin,Asie,Indonesie,4
+Dakar,Afrique ,Senegal,4
+Umm Said,Asie,Qatar,4
+Azow,Asie,Russie,5
+Kaukaz,Asie,Russie,5
+Odessa,Asie,Russie,2
+Vyborg,Asie,Russie,3
+Vystosk,Asie,Russie,4
+Taganrog,Asie,Russie,5
+Nakhodka,Asie,Russie,2
+Novorossiysk,Asie,Russie,4
+Garston,Europe,Royaume-Uni,3
+Harwich,Europe,Royaume-Uni,1
+Holyhead,Europe,Royaume-Uni,1
+London,Europe,Royaume-Uni,3
+Liverpool,Europe,Royaume-Uni,4
+Mancheter Ship Canal,Europe,Royaume-Uni,1
+Milford Haven,Europe,Royaume-Uni,4
+Blyth,Europe,Royaume-Uni,2
+Bristol,Europe,Royaume-Uni,2
+Dover,Europe,Royaume-Uni,3
+Falmouth,Europe,Royaume-Uni,5
+Tyne,Europe,Royaume-Uni,5
+Britain,Europe,Royaume-Uni,2
+Yarmouth,Europe,Royaume-Uni,3
+Colombo,Asie,Sri Lanka,1
+Sudan,Afrique ,Soudan,3
+Elbag,Europe,Pologne,2
+Gdansk,Europe,Pologne,4
+Swinoujscie,Europe,Pologne,3
+Aqaba,Asie,Jordanie,1
+Alexandria,Asie,Egypte,4
+Sues Canal,Asie,Egypte,2
+Constantza,Europe,Roumanie,1
+Shuwaikh,Asie,Koweit,5
+Kuwait,Asie,Koweit,1
+Lavaca,Amerique,Etats-Unis,3
+Adak,Amerique,Etats-Unis,4
+Astoria,Amerique,Etats-Unis,3
+Benton,Amerique,Etats-Unis,4
+Beaumont,Amerique,Etats-Unis,1
+Boston,Amerique,Etats-Unis,4
+Detroit,Amerique,Etats-Unis,2
+Eastport,Amerique,Etats-Unis,2
+Garfield,Amerique,Etats-Unis,5
+Guam,Amerique,Etats-Unis,5
+Gulfport,Amerique,Etats-Unis,3
+Hampton Roads,Amerique,Etats-Unis,5
+Ilyichevsk,Europe,Ukraine,3
+Nikolayev,Europe,Ukraine,2
+Sevastopol,Europe,Ukraine,4
+Yalta,Europe,Ukraine,4
+Limar,Asie,Turquie,2
+Marmara,Asie,Turquie,3
+Kumport,Asie,Turquie,3
+Belde,Asie,Turquie,4
+Bandirma,Asie,Turquie,5
+Busan,Asie,Coree,3
+Donghae,Asie,Coree,1
+Gunsan,Asie,Coree,2
+Incheon,Asie,Coree,3
+Jeju,Asie,Coree,3
+Masan,Asie,Coree,2
+Mokpo,Asie,Coree,5
+Pohang,Asie,Coree,1
+Puerto Cabello,Amerique,Venezuela,1
+Lake Maracaibo,Amerique,Venezuela,3
+Ben Nghe,Asie,Vietnam,4
+Da Nang,Asie,Vietnam,2
+HaiPhong,Asie,Vietnam,4
+Saigon,Asie,Vietnam,1
+Cape Town,Afrique ,Afrique du Sud,2
+Durban,Afrique ,Afrique du Sud,5
+Mossel Bay,Afrique ,Afrique du Sud,3
+Ngqura,Afrique ,Afrique du Sud,3
+Saldanha,Afrique ,Afrique du Sud,1
+Port Elizabeth,Afrique ,Afrique du Sud,2
+Bin Qasim,Asie,Pakistan,3
+Karachi,Asie,Pakistan,1
+Bergen,Europe,Norvege,1
+Brevik,Europe,Norvege,2
+Grenland,Europe,Norvege,3
+Moss,Europe,Norvege,1
+Oslo,Europe,Norvege,3
+Sola,Europe,Norvege,4
+Stavanger,Europe,Norvege,5
+Luderitz,Afrique ,Namibie,1
+Walvis Bay,Afrique ,Namibie,3
+Nambia,Afrique ,Namibie,1
+Aveiro,Europe,Portugal,1
+Leixoes,Europe,Portugal,2
+Lisbon,Europe,Portugal,1
+Madeira,Europe,Portugal,1
+Setubal,Europe,Portugal,1
+Sines,Europe,Portugal,5
+Abu Dhabi,Asie,Emirats Arabes Unis,4
+Dubai,Asie,Emirats Arabes Unis,5
+Sharjah,Asie,Emirats Arabes Unis,5
+Khor Fakkan,Asie,Emirats Arabes Unis,3
+Zayed,Asie,Emirats Arabes Unis,1
+Bangkok,Asie,Thailande,4
+Laem Chabang,Asie,Thailande,4
+Sattahip,Asie,Thailande,4

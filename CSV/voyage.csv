@@ -1,0 +1,16 @@
+id_voyage,id_navire,provenance,destination,distance,date_debut,date_fin,duree,classe,etat_voayage,type,cargaison,passagers
+66,10,Guantanamo,Jorf Lasfar,14347,24/09/1732,28/06/1733,277,Intercontinental,encours,long,4,6
+67,11,Callao,Goulette,115425,05/09/1781,27/02/1782,175,Intercontinental,encours,long,6,4
+24,19,Rostock,Piraeus,549,02/09/1757,18/09/1757,16,Europe,effectue,court,1,9
+38,33,Alberni,Adak,1214,16/09/1769,28/11/1769,73,Amerique,supprime,moyen,10,10
+89,44,Qinhuangdao,Cape Town,145412,06/12/1711,18/05/1712,164,Asie,supprime,long,6,3
+69,45,Paramonga,Gabes,101218,25/08/1726,25/05/1727,273,Intercontinental,supprime,long,6,10
+1,51,Gabes,Gabes,200,23/01/1711,27/02/1711,35,Afrique ,effectue,court,2,8
+34,79,Kelibia,Mombasa,1310,11/01/1711,03/03/1711,51,Afrique ,effectue,moyen,6,8
+36,81,Tunis,Luanda,1680,16/02/1722,14/05/1722,87,Intercontinental,encours,moyen,10,4
+60,82,Curacao,Rosario,1051,02/02/1795,08/03/1795,34,Amerique,encours,moyen,6,10
+11,85,Ziama Manzouriah,Bejaia,729,21/10/1780,29/10/1780,8,Afrique ,supprime,court,2,3
+12,86,El Marsa,Beni Ksila,800,12/02/1743,14/02/1743,2,Afrique ,effectue,court,5,7
+90,200,Tianjin,Durban,107143,24/03/1797,25/08/1797,154,Asie,supprime,long,3,3
+29,227,Oslo,Grenland,798,21/09/1792,26/09/1792,5,Europe,effectue,court,8,7
+32,235,Malaga,Jinzhou,1620,14/11/1753,21/11/1753,7,Intercontinental,effectue,moyen,9,5

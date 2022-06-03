@@ -1,0 +1,316 @@
+id_produit,name,type,quantite,categorie,cargaison
+1,Oranges de Porto,True,304,5,2
+2,Beurre,True,306,8,7
+3, Rhum,False,381,8,4
+4,Boisseaux de Sel,False,130,5,6
+5, Chandelles,False,174,2,10
+6,Savons,False,256,9,9
+7,Sucre,False,318,6,6
+8,Cafe,False,386,5,10
+9,Tabac,False,128,7,6
+10,Plant de Coriandre,False,150,6,3
+11,Bananes,True,355,2,2
+12,Citrons,True,386,7,2
+13,Oranges Navel,True,115,6,2
+14,Mandarines clemenvillas,True,239,5,2
+15,Raisin,True,315,8,2
+16,Aubergine,True,53,6,1
+17,Carottes,True,131,5,2
+18,Betteraves,True,161,5,1
+19,Tomates rondes,True,462,4,8
+20,Concombre,False ,210,1,3
+21,Huitres fines,True,242,1,5
+22,Oeufs,True,445,8,7
+23,Lardons de saumon,True,37,7,5
+24,Crevettes,True,345,6,5
+25,Filets de poulet,True,402,4,1
+26,Lait Entier,True,265,7,7
+27,Sel fin,False ,432,5,6
+28,Poivre noir,False ,354,1,6
+29,Persil ,False ,228,6,3
+30,Oignon,False ,320,9,3
+31,Camembert,True,176,10,7
+32,Crottin de Chevre,True,491,1,7
+33,Fromage Frais,True,165,2,7
+34,Farine de ble,False ,307,8,6
+35,Riz blanc,False ,123,7,6
+36,Pates,False ,293,8,6
+37,Boeuf bourguignon,True,318,3,1
+38,Steack hache surgele,True,53,10,1
+39,Cubes de thon surgeles,True,240,8,5
+40,Sardines,True,444,10,5
+41,Fromage en portion,True,195,8,7
+42,Huile de tournesol,False ,497,3,6
+43,Huile d'olive,False ,270,9,6
+44,Vinaigre d'alcool,True,245,5,8
+45,Sucre de canne,False ,189,1,6
+46,jus de fruits,True,33,10,8
+47,Petits pois,False ,367,3,3
+48,Insecticide,False ,322,8,10
+49,Serpilliere,False ,467,2,10
+50,Oranges de Porto,True,39,8,2
+51,Beurre,True,316,2,7
+52, Rhum,False,446,9,4
+53,Boisseaux de Sel,False,110,2,6
+54, Chandelles,False,251,4,10
+55,Savons,False,332,10,9
+56,Sucre,False,410,4,6
+57,Cafe,False,286,10,10
+58,Tabac,False,372,4,6
+59,Plant de Coriandre,False,187,5,3
+60,Bananes,True,408,2,2
+61,Citrons,True,336,6,2
+62,Oranges Navel,True,489,6,2
+63,Mandarines clemenvillas,True,460,5,2
+64,Raisin,True,207,8,2
+65,Aubergine,True,159,4,9
+66,Carottes,True,90,4,8
+67,Betteraves,True,388,9,7
+68,Tomates rondes,True,192,8,8
+69,Concombre,False ,140,5,3
+70,Huitres fines,True,286,2,5
+71,Oeufs,True,200,7,7
+72,Lardons de saumon,True,419,1,5
+73,Crevettes,True,500,1,5
+74,Filets de poulet,True,213,5,1
+75,Lait Entier,True,385,6,7
+76,Sel fin,False ,216,1,6
+77,Poivre noir,False ,110,7,6
+78,Persil ,False ,31,5,3
+79,Oignon,False ,375,7,3
+80,Camembert,True,422,10,7
+81,Crottin de Chevre,True,205,8,7
+82,Fromage Frais,True,121,3,7
+83,Farine de ble,False ,270,9,6
+84,Riz blanc,False ,311,6,6
+85,Pates,False ,144,1,6
+86,Boeuf bourguignon,True,197,1,1
+87,Steack hache surgele,True,462,5,1
+88,Cubes de thon surgeles,True,334,1,5
+89,Sardines,True,470,5,5
+90,Fromage en portion,True,415,3,7
+91,Huile de tournesol,False ,343,6,6
+92,Huile d'olive,False ,239,7,6
+93,Vinaigre d'alcool,True,126,9,8
+94,Sucre de canne,False ,387,4,6
+95,jus de fruits,True,213,5,8
+96,Petits pois,False ,105,1,3
+97,Insecticide,False ,221,5,10
+98,Serpilliere,False ,67,9,10
+99,Citrons,True,330,8,2
+100,Oranges Navel,True,396,10,2
+101,Mandarines clemenvillas,True,422,1,2
+102,Raisin,True,80,3,2
+103,Aubergine,True,474,9,9
+104,Carottes,True,111,9,1
+105,Betteraves,True,176,8,9
+106,Tomates rondes,True,328,8,9
+107,Concombre,False ,168,7,3
+108,Huitres fines,True,248,7,5
+109,Oeufs,True,383,7,7
+110,Lardons de saumon,True,293,7,5
+111,Crevettes,True,376,5,5
+112,Filets de poulet,True,162,6,1
+113,Lait Entier,True,394,5,7
+114,Sel fin,False ,379,7,6
+115,Poivre noir,False ,441,7,6
+116,Persil ,False ,304,1,3
+117,Oignon,False ,91,9,3
+118,Camembert,True,345,8,7
+119,Crottin de Chevre,True,493,4,7
+120,Fromage Frais,True,435,2,7
+121,Farine de ble,False ,269,8,6
+122,Riz blanc,False ,154,6,6
+123,Pates,False ,197,5,6
+124,Boeuf bourguignon,True,226,5,1
+125,Steack hache surgele,True,224,3,1
+126,Cubes de thon surgeles,True,202,8,5
+127,Sardines,True,292,9,5
+128,Fromage en portion,True,99,6,7
+129,Huile de tournesol,False ,367,5,6
+130,Huile d'olive,False ,42,6,6
+131,Vinaigre d'alcool,True,235,2,8
+132,Sucre de canne,False ,312,3,6
+133,jus de fruits,True,374,10,8
+134,Petits pois,False ,325,1,3
+135,Insecticide,False ,358,2,10
+136,Serpilliere,False ,243,4,10
+137,Oranges de Porto,True,201,4,2
+138,Beurre,True,161,5,7
+139, Rhum,False,434,2,4
+140,Boisseaux de Sel,False,268,5,6
+141, Chandelles,False,398,4,10
+142,Savons,False,169,8,9
+143,Sucre,False,139,4,6
+144,Cafe,False,102,2,10
+145,Tabac,False,122,1,6
+146,Plant de Coriandre,False,77,7,3
+147,Bananes,True,302,10,2
+148,Citrons,True,80,8,2
+149,Oranges Navel,True,121,3,2
+150,Mandarines clemenvillas,True,146,9,2
+151,Raisin,True,192,6,2
+152,Aubergine,True,31,9,7
+153,Carottes,True,245,1,2
+154,Betteraves,True,484,7,9
+155,Tomates rondes,True,476,2,7
+156,Concombre,False ,145,9,3
+157,Huitres fines,True,163,9,5
+158,Oeufs,True,159,10,7
+159,Lardons de saumon,True,447,5,5
+160,Crevettes,True,355,4,5
+161,Filets de poulet,True,130,7,1
+162,Lait Entier,True,44,9,7
+163,Sel fin,False ,157,10,6
+164,Poivre noir,False ,401,1,6
+165,Persil ,False ,163,8,3
+166,Oignon,False ,211,3,3
+167,Camembert,True,360,2,7
+168,Crottin de Chevre,True,468,7,7
+169,Fromage Frais,True,198,8,7
+170,Farine de ble,False ,378,9,6
+171,Riz blanc,False ,389,4,6
+172,Pates,False ,83,8,6
+173,Boeuf bourguignon,True,227,9,1
+174,Steack hache surgele,True,183,9,1
+175,Cubes de thon surgeles,True,132,4,5
+176,Sardines,True,238,1,5
+177,Fromage en portion,True,382,8,7
+178,Huile de tournesol,False ,114,8,6
+179,Huile d'olive,False ,55,7,6
+180,Vinaigre d'alcool,True,152,9,8
+181,Sucre de canne,False ,173,3,6
+182,jus de fruits,True,220,3,8
+183,Petits pois,False ,224,8,3
+184,Insecticide,False ,381,10,10
+185,Serpilliere,False ,310,9,10
+186,Citrons,True,418,2,2
+187,Oranges Navel,True,250,2,2
+188,Mandarines clemenvillas,True,141,8,2
+189,Raisin,True,494,4,2
+190,Aubergine,True,125,3,8
+191,Carottes,True,138,7,1
+192,Betteraves,True,69,7,2
+193,Tomates rondes,True,340,6,5
+194,Concombre,False ,179,5,3
+195,Huitres fines,True,243,4,5
+196,Oeufs,True,243,9,7
+197,Lardons de saumon,True,412,4,5
+198,Crevettes,True,38,8,5
+199,Filets de poulet,True,123,3,1
+200,Lait Entier,True,410,3,7
+201,Sel fin,False ,195,1,6
+202,Poivre noir,False ,390,1,6
+203,Persil ,False ,113,3,3
+204,Oignon,False ,72,4,3
+205,Camembert,True,413,9,7
+206,Crottin de Chevre,True,140,7,7
+207,Fromage Frais,True,374,8,7
+208,Farine de ble,False ,174,8,6
+209,Riz blanc,False ,314,1,6
+210,Pates,False ,98,3,6
+211,Boeuf bourguignon,True,340,1,1
+212,Steack hache surgele,True,296,5,1
+213,Cubes de thon surgeles,True,461,1,5
+214,Sardines,True,92,2,5
+215,Fromage en portion,True,403,1,7
+216,Huile de tournesol,False ,76,2,6
+217,Huile d'olive,False ,133,8,6
+218,Vinaigre d'alcool,True,95,8,8
+219,Sucre de canne,False ,461,3,6
+220,jus de fruits,True,410,1,8
+221,Petits pois,False ,231,5,3
+222,Insecticide,False ,183,1,10
+223,Serpilliere,False ,210,4,10
+224,Oranges de Porto,True,34,7,2
+225,Beurre,True,295,1,7
+226, Rhum,False,229,4,4
+227,Boisseaux de Sel,False,142,10,6
+228, Chandelles,False,419,5,10
+229,Savons,False,194,3,9
+230,Sucre,False,467,6,6
+231,Cafe,False,322,7,10
+232,Tabac,False,152,1,6
+233,Plant de Coriandre,False,88,6,3
+234,Bananes,True,350,9,2
+235,Citrons,True,175,3,2
+236,Oranges Navel,True,366,1,2
+237,Mandarines clemenvillas,True,181,1,2
+238,Raisin,True,57,4,2
+239,Aubergine,True,365,2,2
+240,Carottes,True,313,10,7
+241,Betteraves,True,372,5,1
+242,Tomates rondes,True,211,6,7
+243,Concombre,False ,218,4,3
+244,Huitres fines,True,399,8,5
+245,Oeufs,True,315,8,7
+246,Lardons de saumon,True,433,4,5
+247,Crevettes,True,104,5,5
+248,Filets de poulet,True,415,6,1
+249,Lait Entier,True,151,7,7
+250,Sel fin,False ,421,2,6
+251,Poivre noir,False ,330,8,6
+252,Persil ,False ,456,7,3
+253,Oignon,False ,182,6,3
+254,Camembert,True,379,2,7
+255,Crottin de Chevre,True,359,7,7
+256,Fromage Frais,True,188,1,7
+257,Farine de ble,False ,52,5,6
+258,Riz blanc,False ,379,6,6
+259,Pates,False ,49,3,6
+260,Boeuf bourguignon,True,207,10,1
+261,Steack hache surgele,True,232,5,1
+262,Cubes de thon surgeles,True,295,5,5
+263,Sardines,True,229,10,5
+264,Fromage en portion,True,368,4,7
+265,Huile de tournesol,False ,92,3,6
+266,Huile d'olive,False ,117,3,6
+267,Vinaigre d'alcool,True,176,8,8
+268,Sucre de canne,False ,249,6,6
+269,jus de fruits,True,410,3,8
+270,Petits pois,False ,305,6,3
+271,Insecticide,False ,88,3,10
+272,Serpilliere,False ,221,2,10
+273,Oranges de Porto,True,338,2,2
+274,Beurre,True,193,7,7
+275, Rhum,False,96,4,4
+276,Boisseaux de Sel,False,217,5,6
+277, Chandelles,False,399,1,10
+278,Savons,False,440,3,9
+279,Sucre,False,156,10,6
+280,Cafe,False,479,10,10
+281,Tabac,False,396,2,6
+282,Plant de Coriandre,False,51,10,3
+283,Bananes,True,102,4,2
+284,Citrons,True,124,2,2
+285,Oranges Navel,True,320,5,2
+286,Mandarines clemenvillas,True,93,7,2
+287,Raisin,True,321,6,2
+288,Aubergine,True,92,9,1
+289,Carottes,True,69,10,5
+290,Betteraves,True,219,3,8
+291,Tomates rondes,True,429,8,9
+292,Concombre,False ,234,7,3
+293,Huitres fines,True,415,10,5
+294,Oeufs,True,339,3,7
+295,Lardons de saumon,True,314,1,5
+296,Crevettes,True,310,3,5
+297,Filets de poulet,True,107,7,1
+298,Lait Entier,True,177,6,7
+299,Sel fin,False ,320,2,6
+300,Poivre noir,False ,86,10,6
+301,Persil ,False ,196,3,3
+302,Oignon,False ,49,2,3
+303,Camembert,True,64,2,7
+304,Crottin de Chevre,True,241,6,7
+305,Fromage Frais,True,345,4,7
+306,Farine de ble,False ,292,5,6
+307,Riz blanc,False ,442,4,6
+308,Pates,False ,242,9,6
+309,Boeuf bourguignon,True,148,2,1
+310,Steack hache surgele,True,312,4,1
+311,Cubes de thon surgeles,True,264,9,5
+312,Sardines,True,184,9,5
+313,Fromage en portion,True,338,9,7
+314,Huile de tournesol,False ,38,6,6
+315,Huile d'olive,False ,481,6,6
