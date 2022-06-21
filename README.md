@@ -1,8 +1,8 @@
 # Projet_BDD
 
 Réalisé par:
-SMAINI Khalida : 21964953
-Nasr Amira : 21965931
+SMAINI Khalida 
+Nasr Amira 
 
 L’objectif du projet est la modelisation, le peuplement, et la mise en place d’une base de
 donn ́ees regroupant des donn ́ees autour du commerce maritime au XVIIIe si`ecle, quelque
